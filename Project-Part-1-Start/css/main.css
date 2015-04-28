@@ -1,0 +1,39 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+	width: 50em;
+	margin: 0 auto;
+}
+
+article {
+	width: 50em;
+}
+
+h1 {
+
+}
+
+img {
+	max-width: 100%;
+}
+
+footer {
+	width: 50em;
+	text-align: center;
+}
+
+figure {
+	margin: 1em 0;
+}
